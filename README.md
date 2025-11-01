@@ -79,13 +79,16 @@ Useful for **home security**, **intruder detection**, **surveillance**, and **ro
 ---
 
 ## 📸 Screenshots / Demo Output  
-📌 Replace these placeholders with your own images & demo video
+![t](https://github.com/user-attachments/assets/c1cd4a43-b61d-44f1-a416-790096318291)
+
+
+
+https://github.com/user-attachments/assets/56f9ac28-0171-4dd6-9682-65e109e57503
 
 
 ## 👤 Author
 **Ayush Pandey**  
-Robotics & IoT Enthusiast  
-📍 India  
+Robotics & Trading Enthusiast  
 
 ### 🌍 Connect with me:
 - Instagram: https://instagram.com/ayushk2s  
